@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\oleg\source\repos\render\render\main.cpp(4): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\oleg\source\repos\render\render\main.cpp(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "white"
+c:\users\oleg\source\repos\render\render\main.cpp(5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\oleg\source\repos\render\render\main.cpp(5): error C2373: TGAColor: переопределение; различные модификаторы типа
+  c:\users\oleg\source\repos\render\render\main.cpp(4): note:  см. объявление "TGAColor"
+c:\users\oleg\source\repos\render\render\main.cpp(5): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "red"
+c:\users\oleg\source\repos\render\render\main.cpp(8): error C2065: TGAImage: необъявленный идентификатор
+c:\users\oleg\source\repos\render\render\main.cpp(8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "image"
+c:\users\oleg\source\repos\render\render\main.cpp(8): error C2653: TGAImage: не является именем класса или пространства имен
+c:\users\oleg\source\repos\render\render\main.cpp(8): error C2065: RGB: необъявленный идентификатор
+c:\users\oleg\source\repos\render\render\main.cpp(8): error C3861: image: идентификатор не найден
+c:\users\oleg\source\repos\render\render\main.cpp(9): error C2065: image: необъявленный идентификатор
+c:\users\oleg\source\repos\render\render\main.cpp(9): error C2228: выражение слева от ".set" должно представлять класс, структуру или объединение
+  c:\users\oleg\source\repos\render\render\main.cpp(9): note: тип: unknown-type
+c:\users\oleg\source\repos\render\render\main.cpp(10): error C2065: image: необъявленный идентификатор
+c:\users\oleg\source\repos\render\render\main.cpp(10): error C2228: выражение слева от ".flip_vertically" должно представлять класс, структуру или объединение
+  c:\users\oleg\source\repos\render\render\main.cpp(10): note: тип: unknown-type
+c:\users\oleg\source\repos\render\render\main.cpp(11): error C2065: image: необъявленный идентификатор
+c:\users\oleg\source\repos\render\render\main.cpp(11): error C2228: выражение слева от ".write_tga_file" должно представлять класс, структуру или объединение
+  c:\users\oleg\source\repos\render\render\main.cpp(11): note: тип: unknown-type
